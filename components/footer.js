@@ -28,6 +28,7 @@ export function Footer() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-emerald-400" />
+                  
                   <span>90015 25353</span>
                 </div>
                 <div className="flex items-center gap-3">
