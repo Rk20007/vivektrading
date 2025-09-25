@@ -28,18 +28,17 @@ export function Footer() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-emerald-400" />
-                  <span>+91 98765 43210</span>
+                  <span>90015 25353</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-emerald-400" />
-                  <span>info@vivektrading.com</span>
+                  <span>info@vivektrading.in</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="h-5 w-5 text-emerald-400 mt-1" />
                   <span>
-                    123 Industrial Area, Sector 15
+                    Papari Rd, Tapukara, Rajasthan 301018
                     <br />
-                    Gurgaon, Haryana - 122001
                   </span>
                 </div>
               </div>

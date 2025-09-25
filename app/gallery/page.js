@@ -203,7 +203,7 @@ export default function GalleryPage() {
                 Get Free Quote
               </Button>
               <Button variant="outline" size="lg">
-                Call: +91 98765 43210
+                Call: 90015 25353
               </Button>
             </div>
           </div>

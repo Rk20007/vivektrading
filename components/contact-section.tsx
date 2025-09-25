@@ -73,7 +73,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-2">Call Us</h3>
                     <p className="text-muted-foreground">
-                      +91 98765 43210
+                      90015 25353
                       <br />
                       +91 87654 32109
                     </p>
@@ -89,7 +89,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-2">Email Us</h3>
                     <p className="text-muted-foreground">
-                      info@vivektrading.com
+                      info@vivektrading.in
                       <br />
                       sales@vivektrading.com
                     </p>

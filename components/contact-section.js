@@ -35,13 +35,13 @@ export function ContactSection() {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 98765 43210", "+91 87654 32109"],
+      details: ["90015 25353", "+91 87654 32109"],
       description: "Mon-Sat: 9:00 AM - 7:00 PM",
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@vivektrading.com", "sales@vivektrading.com"],
+      details: ["info@vivektrading.in", "sales@vivektrading.com"],
       description: "We'll respond within 24 hours",
     },
     {

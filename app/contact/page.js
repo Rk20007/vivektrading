@@ -9,7 +9,7 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Call Us Directly",
-      primary: "+91 98765 43210",
+      primary: "90015 25353",
       secondary: "+91 87654 32109",
       description: "Speak with our experts",
       available: "Mon-Sat: 9:00 AM - 7:00 PM",
@@ -17,7 +17,7 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email Support",
-      primary: "info@vivektrading.com",
+      primary: "info@vivektrading.in",
       secondary: "sales@vivektrading.com",
       description: "Get detailed information",
       available: "24/7 Email Support",
@@ -25,7 +25,7 @@ export default function ContactPage() {
     {
       icon: MessageCircle,
       title: "WhatsApp Chat",
-      primary: "+91 98765 43210",
+      primary: "90015 25353",
       secondary: "Quick responses",
       description: "Instant messaging support",
       available: "Mon-Sat: 9:00 AM - 8:00 PM",
@@ -43,10 +43,10 @@ export default function ContactPage() {
   const offices = [
     {
       title: "Head Office",
-      address: "123 Industrial Area, Sector 15",
+      address: "Papari Rd, Tapukara, Rajasthan 301018",
       city: "Gurgaon, Haryana - 122001",
-      phone: "+91 98765 43210",
-      email: "info@vivektrading.com",
+      phone: "90015 25353",
+      email: "info@vivektrading.in",
       hours: "Mon-Sat: 9:00 AM - 7:00 PM",
     },
     {

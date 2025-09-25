@@ -64,11 +64,11 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-4 w-4 text-primary" />
-                <span className="text-sm">+91 98765 43210</span>
+                <span className="text-sm">90015 25353</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-sm">info@vivektrading.com</span>
+                <span className="text-sm">info@vivektrading.in</span>
               </div>
             </div>
           </div>
