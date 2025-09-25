@@ -75,7 +75,7 @@ export function ContactSection() {
                     <p className="text-muted-foreground">
                       90015 25353
                       <br />
-                      +91 87654 32109
+                      
                     </p>
                   </div>
                 </div>
